@@ -1,0 +1,46 @@
+{
+    "context": "This document contains information about the B.Tech CSE (AI) program syllabus, course objectives, outcomes, and detailed course structures for various semesters.",
+    "pairs": [
+      {
+        "input_text": "What are the objectives of the 'Fundamentals of Computer Programming' course?",
+        "output_text": "The objectives include understanding programming essentials, learning preprogramming steps like algorithms, flowcharts, and pseudo-codes, understanding C programming syntax and semantics, variable declarations, operators, control structures, pointers, and file I/O operations."
+      },
+      {
+        "input_text": "What are the topics covered under Unit I of 'Introduction to Artificial Intelligence'?",
+        "output_text": "Unit I covers Introduction to AI, components, goals, types, history, Turing Test, intelligence concepts, advantages/disadvantages, intelligent systems, weak/strong AI, mind-body problem, Chinese Room Experiment, and Parallel & Distributed AI."
+      },
+      {
+        "input_text": "What is taught in the Python Lab course (AI184)?",
+        "output_text": "The Python Lab course focuses on writing Python scripts, flow control structures, working with lists and sequence data, Python functions, file operations, modules, exception handling, database programming, and data analysis using libraries like Numpy and Pandas."
+      },
+      {
+        "input_text": "List the types of intelligent agents introduced in the 'Introduction to Artificial Intelligence' course.",
+        "output_text": "The types of intelligent agents include Simple Reflex Agent, Model-based Reflex Agent, Goal-based Agent, Utility-based Agent, and Learning Agent."
+      },
+      {
+        "input_text": "What is the main focus of the 'Image Processing and Computer Vision' course?",
+        "output_text": "The course focuses on algorithms and techniques for analyzing and interpreting visual data, including image segmentation, feature extraction, pattern analysis, and understanding the structure and depth of objects in a scene."
+      },
+      {
+        "input_text": "What are the primary learning outcomes of the 'Data Structure and Algorithms' course?",
+        "output_text": "Students will learn static and dynamic data structures, standard algorithms, debugging, program improvements, algorithm complexity analysis, and the use of graphs, trees, and heaps."
+      },
+      {
+        "input_text": "Which programming languages are taught in the B.Tech CSE (Data Science) syllabus?",
+        "output_text": "The syllabus includes C programming, Python, R programming, and SQL for database management."
+      },
+      {
+        "input_text": "What are the core topics in the 'Theory of Computation and Automata' course?",
+        "output_text": "Core topics include automata and grammars, DFA, NFA, regular expressions, context-free grammars, Turing machines, recursive and recursively enumerable languages, and undecidability."
+      },
+      {
+        "input_text": "What is covered in the 'Machine Learning' lab in Semester IV?",
+        "output_text": "The lab focuses on implementing machine learning algorithms using Python, including supervised and unsupervised learning, decision trees, Naïve Bayes models, and EM algorithms."
+      },
+      {
+        "input_text": "What are the elective subjects available in the syllabus?",
+        "output_text": "Elective subjects include topics like Computer Graphics, Brain and Neuroscience, Bayesian Data Theory, Graph Theory, Pattern Recognition, Biometric Security, Cyber Security, Augmented and Virtual Reality, and Blockchain Technology."
+      }
+    ]
+  }
+  
